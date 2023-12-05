@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tutorialmod:turquoise_tear_block"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:turquoise_tear",
+    "count": 9
+  }
+}

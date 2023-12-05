@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 800,
+  "experience": 2.5,
+  "group": "black_quartz",
+  "ingredient": {
+    "item": "tutorialmod:raw_black_quartz"
+  },
+  "result": "tutorialmod:black_quartz"
+}

@@ -31,6 +31,8 @@ public class ModItems {
 
     public static final RegistryObject<Item> OBSIDIAN_ROD = ITEMS.register("obsidian_rod",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> OBSIDIAN_SHARD = ITEMS.register("obsidian_shard",
+            () -> new Item(new Item.Properties()));
 
     public static final RegistryObject<Item> PINK_DIAMOND_TEAR = ITEMS.register("pink_diamond_tear",
             () -> new Item(new Item.Properties()));

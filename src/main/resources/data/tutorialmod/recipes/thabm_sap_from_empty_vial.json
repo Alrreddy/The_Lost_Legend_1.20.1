@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "LML",
+    "WEW",
+    "WGW"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:jungle_leaves"
+    },
+    "M": {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    "W": {
+      "item": "minecraft:dark_oak_wood"
+    },
+    "E": {
+      "item": "tutorialmod:empty_vial"
+    },
+    "G": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:thabm_sap",
+    "count": 1
+  }
+}

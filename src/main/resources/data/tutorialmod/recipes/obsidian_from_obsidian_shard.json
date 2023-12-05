@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:obsidian_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:obsidian",
+    "count": 1
+  }
+}

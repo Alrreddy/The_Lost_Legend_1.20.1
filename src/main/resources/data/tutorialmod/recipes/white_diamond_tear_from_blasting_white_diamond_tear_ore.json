@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.3,
+  "group": "white_diamond_tear",
+  "ingredient": {
+    "item": "tutorialmod:white_diamond_tear_ore"
+  },
+  "result": "tutorialmod:white_diamond_tear"
+}

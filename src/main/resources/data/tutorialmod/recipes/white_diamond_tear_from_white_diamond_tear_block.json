@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tutorialmod:white_diamond_tear_block"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:white_diamond_tear",
+    "count": 9
+  }
+}

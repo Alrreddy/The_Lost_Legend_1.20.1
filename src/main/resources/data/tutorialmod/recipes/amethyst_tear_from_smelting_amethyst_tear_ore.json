@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 400,
+  "experience": 1.3,
+  "group": "amethyst_tear",
+  "ingredient": {
+    "item": "tutorialmod:amethyst_tear_ore"
+  },
+  "result": "tutorialmod:amethyst_tear"
+}

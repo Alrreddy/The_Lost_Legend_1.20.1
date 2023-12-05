@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 400,
+  "experience": 1.3,
+  "group": "pink_diamond_tear",
+  "ingredient": {
+    "item": "tutorialmod:pink_diamond_tear_ore"
+  },
+  "result": "tutorialmod:pink_diamond_tear"
+}

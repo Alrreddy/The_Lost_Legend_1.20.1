@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SST",
+    "STS",
+    "TSS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "T": {
+      "item": "tutorialmod:turquoise_tear"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:draconic_ribbon",
+    "count": 1
+  }
+}

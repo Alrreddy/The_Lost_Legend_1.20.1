@@ -6,6 +6,7 @@
   "item.tutorialmod.empty_vial": "Empty Vial",
   "item.tutorialmod.legendary_quartz": "Legendary Quartz",
   "item.tutorialmod.obsidian_rod": "Obsidian Rod",
+  "item.tutorialmod.obsidian_shard": "Obsidian Shard",
   "item.tutorialmod.pink_diamond_tear": "Pink Diamond Tear",
   "item.tutorialmod.raw_sapphire": "Raw Sapphire",
   "item.tutorialmod.ruby_tear": "Ruby Tear",
@@ -15,6 +16,25 @@
   "item.tutorialmod.topaz_tear": "Topaz Tear",
   "item.tutorialmod.turquoise_tear": "Turquoise Tear",
   "item.tutorialmod.white_diamond_tear": "White Diamond Tear",
+
+  "block.tutorialmod.amethyst_tear_block": "Block of Amethyst Tear",
+  "block.tutorialmod.amethyst_tear_ore": "Amethyst Tear Ore",
+  "block.tutorialmod.pink_diamond_tear_block": "Block of Pink Diamond Tear",
+  "block.tutorialmod.pink_diamond_tear_ore": "Pink Diamond Tear Ore",
+  "block.tutorialmod.raw_black_quartz": "Raw Black Quartz",
+  "block.tutorialmod.ruby_tear_block": "Block of Ruby Tear",
+  "block.tutorialmod.ruby_tear_ore": "Ruby Tear Ore",
+  "block.tutorialmod.sapphire_tear_block": "Block of Sapphire Tear",
+  "block.tutorialmod.sapphire_tear_ore": "Sapphire Tear Ore",
+  "block.tutorialmod.topaz_tear_block": "Block of Topaz Tear",
+  "block.tutorialmod.topaz_tear_ore": "Topaz Tear Ore",
+  "block.tutorialmod.turquoise_tear_block": "Block of Turquoise Tear",
+  "block.tutorialmod.turquoise_tear_ore": "Turquoise Tear Ore",
+  "block.tutorialmod.white_diamond_tear_block": "Block of White Diamond Tear",
+  "block.tutorialmod.white_diamond_tear_ore": "White Diamond Tear Ore",
+
+  "block.tutorialmod.raw_sapphire_block": "Block of Raw Sapphire",
+  "block.tutorialmod.sapphire_block": "Block of Sapphire",
 
   "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
 }
